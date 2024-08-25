@@ -1,0 +1,4 @@
+1) https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
+2) https://nbviewer.org/github/whitehorn/Scientific_graphics_in_python/blob/master/P1%20Chapter%201%20Pyplot.ipynb
+3) https://devpractice.ru/matplotlib-lesson-4-2-stack-stem-scatter/#p4
+4) https://pythobyte.com/matplotlib-line-plot-tutorial-and-examples-959a3a7e/

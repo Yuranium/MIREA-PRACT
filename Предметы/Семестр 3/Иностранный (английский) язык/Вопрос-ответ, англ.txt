@@ -1,0 +1,29 @@
+1) There are five generations of computers in total. The first generation of computers used vacuum tubes, came out in 1940s. The second generation of computers came in the 1950s and 1960s, they could work ten times faster. Third-generation computers could perform a million calculations per second. In fourth-generation computers, integrated circuits were greatly reduced in size. The fifth generation of computers is based on parallel data processing and artificial intelligence.
+2) Computer is an electronic device that manipulates data or information. Mainframes enable concurrent execution of multiple programs by supporting multiple users through a central system connected to numerous networked terminals. Supercomputers are the fastest, they are capable of performing trillions of calculations per second and are used for weather forecasting and quantum mechanics. Laptops are compact and easily transportable computers, functioning similarly to PCs but with smaller screens.
+3)
+4) Hardware is any electronic or mechanical part that you can see or touch. Software is a set of instructions called a program that tells a computer what to do.
+5) The motherboard, it controls the operation of the entire computer, the power supply unit, it powers the entire computer
+6) The keyboard is designed for input and output of information, the mouse is designed for the convenience of using a PC.
+7) The CPU consists of ALU, control unit and registers.
+8) Number of cores. Cache size (L1, L2, L3), The speed and capacity of the system memory (RAM) can impact CPU performance, The type and speed of storage (HDD, SSD, NVMe) can also affect CPU performance.
+9) Most computers take a long time to move data to and from memory, and this can be fixed using the processor cache. The idea is to use a small number of very fast memory chips as a buffer between the main memory and the processor.
+10) When the processor needs to read data, it looks in this cache area first. If it finds the data in the cache, then this counts as a ‘cache hit’ and the processor need not go through the more laborious process of reading data from the main memory.
+11) RAM (random access memory) is volatile that is, its information is lost when the computer is turned off. ROM (read only memory) is non-volatile, containing instructions and routines for the basic operations of the CPU.
+12)
+13) Hard Disk Drives (HDDs) and Solid State Drives (SSDs).
+14) A hard drive, however, can store much more data and retrieve information much faster. It consists of several plates that are made up of a magnetic material and known as platters.
+15) CD and DVD very different in internal structure and data capacity. In a DVD, the tracks are very close together, thus allowing more tracks. The pits in which data is stored are also smaller, so there are more pits per track.
+16)
+17) A solid-state drive (SSD) is a type of non- volatile storage media that uses integrated circuit assemblies to store data persistently. Two key components make up an SSD: a flash controller and flash memory chips. A hard drive, however, can store much more data and retrieve information much faster. It consists of several plates that are made up of a magnetic material and known as platters.
+18) System Software is general-purpose software, which is used to operate computer
+hardware. Application software is designed to help the user perform a specific task, thus it is known as specific-purpose softwar.
+19) The operating system (OS) manages all of the software and hardware on the computer. It performs basic tasks. The operating system has several basic functions:
+	•Management of computer hardware resources such as CPU, memory, and others;
+	•creating a user interface;
+	•providing an environment for running application programs.
+20) Desktop(Microsoft Windows, MAC OS) and mobile(Android and Apple’s iOS.) operating systems.
+21)  CLI (Command Line Interface); it means that the user runs a program by typing a command. GUI (Graphical user interface) that allows the user to use a mouse to click on icons on the screen or choose commands from a list of choices known as a menu.
+22)
+23) An open source program is cheaper, there is freedom from software vendors
+24) With proprietary software, the vendor controls software updates and users can’t add features to proprietary software themselves
+25) Bus Networks form a backbone with nodes on a single cable; Star Networks connect via a central hub; 
