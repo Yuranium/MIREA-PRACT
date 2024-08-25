@@ -1,0 +1,11 @@
+subdesign 'DMUX21'
+(
+E, A0, A1, D : input;
+OUT_0, OUT_1, OUT_2, OUT_3 : output;
+)
+begin
+OUT_0 = D & !A0 & !A1 & E;
+OUT_1 = D & A0 & !A1 & E;
+OUT_2 = D & !A0 & A1 & E;
+OUT_3 = D & A0 & A1 & E;
+end;

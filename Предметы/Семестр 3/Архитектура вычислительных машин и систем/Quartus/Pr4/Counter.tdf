@@ -1,0 +1,68 @@
+subdesign 'Counter'
+(
+a, b, clock : input;
+q[3..0] : output;
+)
+variable
+nota, notb : node;
+notq0, notq1, notq2, notq3 : node;
+newq0, newq1, newq2, newq3 : node;
+X0, X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, X11, X12, X13, X14, X15 : node;
+if0, if1, if2, if3, if4, if5 : node;
+trigger0, trigger1, trigger2, trigger3 : dff;
+
+begin
+nota = not a;
+notb = not b;
+
+notq0 = not q[0];
+notq1 = not q[1];
+notq2 = not q[2];
+notq3 = not q[3];
+
+X0 = notq0 and notq1 and notq2 and notq3;
+X1 = q[0] and notq1 and notq2 and notq3;
+X2 = notq0 and q[1] and notq2 and notq3;
+X3 = q[0] and q[1] and notq2 and notq3;
+X4 = notq0 and notq1 and q[2] and notq3;
+X5 = q[0] and notq1 and q[2] and notq3;
+X6 = notq0 and q[1] and q[2] and notq3;
+X7 = q[0] and q[1] and q[2] and notq3;
+X8 = notq0 and notq1 and notq2 and q[3];
+X9 = q[0] and notq1 and notq2 and q[3];
+X10 = notq0 and q[1] and notq2 and q[3];
+X11 = q[0] and q[1] and notq2 and q[3];
+X12 = notq0 and notq1 and q[2] and q[3];
+X13 = q[0] and notq1 and q[2] and q[3];
+X14 = notq0 and q[1] and q[2] and q[3];
+X15 = q[0] and q[1] and q[2] and q[3];
+
+if0 = a and X7;
+if1 = nota and X7;
+if2 = b and X0;
+if3 = notb and X0;
+if4 = b and X14;
+if5 = notb and X14;
+
+newq3 = if1 or if0 or if3 or X15 or X12 or X10 or X8 or if4 or X1 or X5;
+newq2 = X6 or if3 or if2 or X15 or X10 or X13 or X4 or X8 or X1 or X5;
+newq1 = X6 or if1 or X11 or if3 or X12 or X4 or X8 or if5;
+newq0 = X6 or if1 or X11 or if3 or if2 or X10 or if4 or X2 or X9;
+
+trigger0.clk = clock;
+trigger0.d = newq0;
+q[0] = trigger0.q;
+
+trigger1.clk = clock;
+trigger1.d = newq1;
+q[1] = trigger1.q;
+
+trigger2.clk = clock;
+trigger2.d = newq2;
+q[2] = trigger2.q;
+
+trigger3.clk = clock;
+trigger3.d = newq3;
+q[3] = trigger3.q;
+
+end;

@@ -1,0 +1,9 @@
+subdesign 'Compare'
+(
+A0, B0, A1, B1, A2, B2 : input;
+A_equals_B, A_more_B : output;
+)
+begin
+A_equals_B = (A0 xnor B0) & ((A1 xnor B1) & (A2 xnor B2));
+A_more_B = ((A0 & !B0) & ((A1 xnor B1) & (A2 xnor B2))) # (((A1 & !B1) & (A2 xnor B2)) # (A2 & !B2));
+end;

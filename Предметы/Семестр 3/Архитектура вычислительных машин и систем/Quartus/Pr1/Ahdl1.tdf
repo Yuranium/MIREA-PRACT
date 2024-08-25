@@ -1,0 +1,8 @@
+subdesign 'Pract2'
+(
+A, B, C, D : input;
+Y : output;
+)
+begin
+Y = (A or D) xnor (B and C);
+end;
