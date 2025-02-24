@@ -1,0 +1,409 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
+  <diagram name="Страница — 1" id="izNbyG1S53-uZktYa9Jy">
+    <mxGraphModel dx="2607" dy="1422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-2" target="kLHCZxDA0hwHusIBjnxA-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-2" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-3" target="kLHCZxDA0hwHusIBjnxA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-3" value="1.Подать заявление на оформление паспорта РФ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-4" target="kLHCZxDA0hwHusIBjnxA-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-4" value="2.Приём документов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-5" target="kLHCZxDA0hwHusIBjnxA-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-5" value="3.Сформировать межведомственные запросы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-6" target="kLHCZxDA0hwHusIBjnxA-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-6" value="4.Рассмотреть документы и принять решение" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-7" target="kLHCZxDA0hwHusIBjnxA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-7" value="5.Получить нового паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-9" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="620" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-15" target="kLHCZxDA0hwHusIBjnxA-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-15" value="10 дней" style="shape=delay;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="57.5" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-22" target="kLHCZxDA0hwHusIBjnxA-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-22" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-23" target="kLHCZxDA0hwHusIBjnxA-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-23" value="1.Обращение в МФЦ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-24" target="kLHCZxDA0hwHusIBjnxA-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-24" value="2.Подать заявление" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-25" target="kLHCZxDA0hwHusIBjnxA-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-30" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.5568" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-25" target="kLHCZxDA0hwHusIBjnxA-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-41" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.2437" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-25" value="Причина заявления - достижение 14 летнего, 20 летнего и 45 летнего возраста?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-26" target="kLHCZxDA0hwHusIBjnxA-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-34" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.1969" y="1" relative="1" as="geometry">
+            <mxPoint x="2" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-26" target="kLHCZxDA0hwHusIBjnxA-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-39" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-36" vertex="1" connectable="0">
+          <mxGeometry x="-0.5879" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-26" value="Заявление подано в течение 90 дней?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eYAg5fWcYSB1PEIxFFnG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kLHCZxDA0hwHusIBjnxA-27" target="eYAg5fWcYSB1PEIxFFnG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-27" value="3.Наложить штраф" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="455" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-28" target="kLHCZxDA0hwHusIBjnxA-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-32" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-31" vertex="1" connectable="0">
+          <mxGeometry x="-0.1931" y="-3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYAg5fWcYSB1PEIxFFnG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kLHCZxDA0hwHusIBjnxA-28" target="eYAg5fWcYSB1PEIxFFnG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eYAg5fWcYSB1PEIxFFnG-5" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eYAg5fWcYSB1PEIxFFnG-3">
+          <mxGeometry x="-0.7671" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-28" value="Заявление подано в течение 30 дней?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="625" y="380" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-35" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-47" target="kLHCZxDA0hwHusIBjnxA-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-47" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-48" target="kLHCZxDA0hwHusIBjnxA-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-48" value="1.Принять заявлениу по форме" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-49" target="kLHCZxDA0hwHusIBjnxA-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-49" value="2.Проверить тождественность лица, изображённого на фотографии" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="190" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-50" target="kLHCZxDA0hwHusIBjnxA-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-81" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.3238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-50" target="kLHCZxDA0hwHusIBjnxA-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-86" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-83" vertex="1" connectable="0">
+          <mxGeometry x="-0.8131" relative="1" as="geometry">
+            <mxPoint x="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-50" value="Лицо предъявителя совпадает с фотографией?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-52" target="kLHCZxDA0hwHusIBjnxA-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-52" value="3.Оценить качество и соответствие фотографий" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-53" target="kLHCZxDA0hwHusIBjnxA-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-80" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-62" vertex="1" connectable="0">
+          <mxGeometry x="-0.4381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-53" target="kLHCZxDA0hwHusIBjnxA-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-87" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-84" vertex="1" connectable="0">
+          <mxGeometry x="-0.8394" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-53" value="Фотография соответствует&amp;nbsp; установленным требованиям?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="480" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-54" target="kLHCZxDA0hwHusIBjnxA-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-54" value="4.Проверить все необходимые документы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-55" target="kLHCZxDA0hwHusIBjnxA-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-79" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-71" vertex="1" connectable="0">
+          <mxGeometry x="-0.7429" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-55" target="kLHCZxDA0hwHusIBjnxA-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-88" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-85" vertex="1" connectable="0">
+          <mxGeometry x="-0.624" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-55" value="Все необходимые документы в наличии?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="832.5" y="680" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-64" target="kLHCZxDA0hwHusIBjnxA-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-64" value="5.Сообщить заявителю дату получения паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="790" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-66" target="kLHCZxDA0hwHusIBjnxA-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-66" value="6.Выдать заявителю расписку о принятии заявления" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-67" value="7.Осуществить сканирование представленных документов и заявления" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="825" y="970" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-68" target="kLHCZxDA0hwHusIBjnxA-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-68" value="8.Сформировать электронное дело в базе данных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-69" target="kLHCZxDA0hwHusIBjnxA-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-69" value="9.Направление сформированного электронного обращения и реестра документов в УВМ ГУ МВД России" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="795" y="1150" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-67" target="kLHCZxDA0hwHusIBjnxA-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-77" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="855" y="1240" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-82" target="kLHCZxDA0hwHusIBjnxA-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-82" value="10.Отказать в выдаче или замене паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-91" target="kLHCZxDA0hwHusIBjnxA-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-91" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1241" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-92" target="kLHCZxDA0hwHusIBjnxA-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-92" value="1.Получить реестр документов из МФЦ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-93" target="kLHCZxDA0hwHusIBjnxA-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-93" value="2.Свёртка реестра документов с представленными документами" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-94" target="kLHCZxDA0hwHusIBjnxA-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-109" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-98" vertex="1" connectable="0">
+          <mxGeometry x="-0.3619" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-94" target="kLHCZxDA0hwHusIBjnxA-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-108" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-107" vertex="1" connectable="0">
+          <mxGeometry x="-0.9518" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-94" value="Есть необходимость осуществления межведомственных запросов?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1179.25" y="530" width="203.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-95" target="kLHCZxDA0hwHusIBjnxA-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-95" value="3.Направление межведомственных запросов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-96" target="kLHCZxDA0hwHusIBjnxA-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-96" value="Ожидание ответов" style="shape=delay;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1226" y="779" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-103" target="kLHCZxDA0hwHusIBjnxA-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-103" value="4.Получить ответ на межведомственные запросы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-104" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1251.5" y="940" width="59" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-111" target="kLHCZxDA0hwHusIBjnxA-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-111" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1735" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-112" target="kLHCZxDA0hwHusIBjnxA-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-112" value="1.Рассмотреть и проверить представленные заявителем документы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1697.5" y="100" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-113" target="kLHCZxDA0hwHusIBjnxA-114" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-124" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-119" vertex="1" connectable="0">
+          <mxGeometry x="-0.6741" y="-3" relative="1" as="geometry">
+            <mxPoint x="18" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-113" target="kLHCZxDA0hwHusIBjnxA-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-133" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-131" vertex="1" connectable="0">
+          <mxGeometry x="-0.7673" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-113" value="Все представленные документы подлинные?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1697.5" y="190" width="145" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-114" target="kLHCZxDA0hwHusIBjnxA-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-114" value="2.Внести в заявление о выдаче (замене) паспорта сведений о наличии гражданства РФ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1677.5" y="300" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-115" target="kLHCZxDA0hwHusIBjnxA-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-123" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-121" vertex="1" connectable="0">
+          <mxGeometry x="-0.3675" y="1" relative="1" as="geometry">
+            <mxPoint x="14" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-115" target="kLHCZxDA0hwHusIBjnxA-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-134" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kLHCZxDA0hwHusIBjnxA-129" vertex="1" connectable="0">
+          <mxGeometry x="-0.259" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-115" value="Заявителю нужна справка о приёме документов на оформление паспорта и временное удостоверение личности" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="390" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-116" target="kLHCZxDA0hwHusIBjnxA-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-116" value="4.Принять решение о выдаче или замене паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="595.23" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-117" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1735" y="679.23" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-126" target="kLHCZxDA0hwHusIBjnxA-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-126" value="5.Отказать в выдаче или замене паспорта" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1930" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kLHCZxDA0hwHusIBjnxA-127" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1545" y="580" />
+              <mxPoint x="1770" y="580" />
+            </Array>
+            <mxPoint x="1770" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLHCZxDA0hwHusIBjnxA-127" value="3.Выдать справку о приёме документов на оформление паспорта и удостоверение личности гражданства РФ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="475" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eYAg5fWcYSB1PEIxFFnG-1" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
